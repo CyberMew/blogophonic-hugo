@@ -14,4 +14,4 @@ Overview of projects/proj1.
 
 See more at [details](/projects/proj1/details)
 
--- End --
+-- End -- ** Nothing should be shown below **
